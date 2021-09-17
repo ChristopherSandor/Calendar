@@ -1,0 +1,36 @@
+.weekdays{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: lightgrey;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+.weekdays1{
+  border: 2px solid black;
+  background-color: lightgrey;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.weekdays2{
+  border: 2px solid black;
+  background-color: lightgrey;
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.weekends{
+  border: none;
+  background-color: white;
+}
+
+.center{
+  text-align: center;
+}
+.top{
+  border-top: 2px solid black;
+}
+.bottom{
+  border-bottom: 2px solid black;
+}
